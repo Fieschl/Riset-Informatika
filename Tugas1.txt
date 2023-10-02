@@ -1,0 +1,13 @@
+Problem Statement: Pertanian adalah sektor penting dalam ekonomi global, dan kesehatan tanaman sangat memengaruhi hasil panen dan ketahanan pangan. Salah satu tantangan utama dalam pertanian adalah mendeteksi penyakit tanaman secara dini untuk mengambil tindakan yang tepat. Penggunaan teknologi pemrosesan citra dapat menjadi solusi potensial, tetapi masih ada kekurangan dalam algoritma yang efisien dan akurat untuk mendeteksi penyakit tanaman.
+
+Research Question:
+
+Bagaimana kita dapat mengembangkan algoritma pemrosesan citra yang efisien untuk mendeteksi penyakit tanaman secara otomatis?
+Apakah teknik deep learning dapat digunakan untuk meningkatkan akurasi deteksi penyakit tanaman dalam citra?
+Bagaimana performa algoritma deteksi penyakit tanaman ini dalam berbagai kondisi pencahayaan dan pengambilan gambar?
+Bagaimana pengaruh deteksi penyakit tanaman secara otomatis terhadap produktivitas pertanian dan pengurangan kerugian hasil panen?
+Keterkaitan:
+
+Penelitian ini memiliki dampak langsung pada pengembangan teknologi pertanian yang lebih efisien dan berkelanjutan. Hasil penelitian dapat membantu petani mendeteksi penyakit tanaman dengan lebih cepat dan akurat, mengurangi kerugian hasil panen.
+Penerapan teknik deep learning dalam pemrosesan citra dapat membuka peluang baru dalam bidang informatika dan pertanian, sehingga keterkaitan dengan perkembangan teknologi terbaru dalam domain ini sangat relevan.
+Keterkaitan dengan ilmu pertanian dan teknik pemrosesan citra akan menghasilkan pengetahuan yang lebih luas dan multidisiplin tentang bagaimana teknologi informasi dapat digunakan untuk meningkatkan sektor pertanian.
